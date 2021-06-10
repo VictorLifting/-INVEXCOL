@@ -1,0 +1,21 @@
+Nombre,Riesgo,Retorno tasa fija (E.A),Impacto social,Impacto ambiental,Tiempo (Plazo),Comercio,Manufactura,Alojamiento,Inmobiliario,Transporte ,Agroindustria,Servicios Energéticos,Alcantarillado,Educacion,Comunicaciones,Salud,Investigacion ,Servicios domesticos,Valor agregado,Mercado,Competencia,img,link
+Asfrio,1,10,10,10,36,1,10,1,1,1,1,1,1,1,1,1,1,1,5,5,3,./src/Asfiro.png,https://a2censo.com/campaign/146
+Habi,5,9.75,5,7,18,1,1,1,10,1,1,1,1,1,1,1,1,1,10,7,4,./src/Habi.png,https://a2censo.com/campaign/145
+Parrilla Libanesa,1,12,10,6,48,1,1,1,1,1,10,1,1,1,1,1,1,1,5,8,6,./src/Parrilla.png,https://a2censo.com/campaign/144
+Vain,1,9.5,5,10,10,1,10,1,1,1,1,1,1,1,1,1,1,1,5,8,2,./src/Vain.png,https://a2censo.com/campaign/143
+Asadores El Barril,1,11,1,10,36,1,1,1,1,1,10,1,1,1,1,1,1,1,5,5,4,./src/Asadores.png,https://a2censo.com/campaign/142
+Celuventa,1,10,7,10,24,10,1,1,1,1,1,1,1,1,1,1,1,1,7,4,2,./src/Celuventa.png,https://a2censo.com/campaign/141
+Servicepticos,1,11,8,10,48,1,1,1,1,1,1,1,10,1,1,1,1,1,7,8,3,./src/Servicepticos.png,https://a2censo.com/campaign/122
+Recet Store,1,10,10,2,24,10,1,1,1,1,1,1,1,1,1,1,1,1,10,8,6,./src/Recet.png,https://a2censo.com/campaign/121
+La mayorista,1,12,7,4,36,10,1,1,1,1,1,1,1,1,1,1,1,1,9,5,5,./src/mayorista.png,https://a2censo.com/campaign/108
+Fundación Juanfe,2,8,10,2,12,1,1,1,1,1,1,1,1,1,1,10,1,1,9,8,4,./src/Juanfe.png,https://a2censo.com/campaign/107
+RobinFood,2,10,8,2,36,10,1,10,1,1,1,1,1,1,1,1,1,1,9,5,7,./src/RobinFood.png,https://a2censo.com/campaign/106
+velonet,2,12,7,2,36,1,1,1,1,1,1,1,1,1,10,1,1,1,7,6,5,./src/velonet.png,https://a2censo.com/campaign/105
+Genersa,2,11.5,10,10,18,1,1,1,1,1,1,10,1,1,1,1,1,1,5,8,7,./src/Genersa.png,https://a2censo.com/campaign/104
+Coss,1,12,7,10,24,1,1,1,1,10,1,1,1,1,1,1,1,1,5,7,3,./src/Coss.png,https://a2censo.com/campaign/103
+T4,1,8.5,10,10,24,1,10,1,1,1,1,1,1,1,1,1,1,1,7,5,4,./src/T4.png,https://a2censo.com/campaign/102
+Edex,1,12,7,3,36,1,1,1,1,1,1,1,1,10,1,1,1,1,10,8,7,./src/Edex.png,https://a2censo.com/campaign/101
+Vendty,1,12,5,2,36,1,1,1,1,1,1,1,1,1,10,1,1,1,5,5,7,./src/Vendty.png,https://a2censo.com/campaign/98
+Aoxlab,3,12,8,2,48,1,1,1,1,1,1,1,1,1,1,1,10,1,9,6,3,./src/Aoxlab.png,https://a2censo.com/campaign/93
+PlusAseo,1,10,4,3,48,1,1,1,1,1,1,1,1,1,1,1,1,10,5,3,5,./src/PlusAseo.png,https://a2censo.com/campaign/92
+Pirani,1,8,4,2,12,1,1,1,1,1,1,1,1,1,10,1,1,1,10,6,4,./src/Pirani.png,https://a2censo.com/campaign/90

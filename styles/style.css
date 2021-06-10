@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600;700;900&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 50px;
+}
+
+body {
+    align-items: center;
+    border-color: transparent;
+    background-color: #F6F6F6;
+}
+
+.banner {
+    background-image: url(../src/bgImg.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+    justify-content: space-around;
+    background-color: rgb(231, 209, 255);
+}
+
+h1 {
+   
+    background-color: inherit;
+}
+
+.bannerInfo {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 200px;
+}
+
+
+
+
+
+th{
+    background-color: #FAF5DA;
+    color:#FFD600;
+    font-size: 13px;
+    border-radius: 5px;
+    padding: 20px;
+    width: 400px;
+
+}
+
+td {
+    margin: 50px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 13px;
+    color:black;
+    padding: 5px 10px;
+
+}
+
+
+
+input[type="checkbox"] {
+    margin:10px;
+    float: left;
+    width: 15px;
+    height: 15px;
+}
+
+.answer {
+    margin: 40px 0px;
+}
+
+.btn_proto {
+
+}
+
+button {
+    margin: 15px;
+    border-color: transparent;
+    color: white;
+    background: #FFD600;
+
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: rgb(82, 0, 158);
+    color: #FFF;
+}
+
+select,
+input {
+    margin: 0px;
+    border: 0px;
+    color: #000;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input[type="file-upload-button"] {
+    margin: 15px;
+    border: 0px;
+    color: #FFF;
+    background: rgb(82, 0, 158);
+}
+
+p {
+    margin: 0;
+}
+
+.to-order {
+    display: none;
+}
+
+.center {
+    background: salmon;
+}
+
+.people {
+    background: seagreen;
+}
+
+.answer-section {
+    display: flex;
+align-items: center;
+justify-content: center;
+margin: 40px 0px;
+}
+
+.graphic-part {
+    display: inline-flex;
+    align-items: center;
+}
+
+div{
+    background-color: inherit;
+}
+
+canvas {
+    display: none;
+}
+
+.valueMainContainer {
+    display: none;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+}
+
+.valueContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 0 5px;
+    padding: 0;
+    font-size: 12px;
+}
+
+
+/*---------   INVEXCOL  ------------*/
+
+
+.nav-menu{
+    height:70px;
+    display: flex;
+    box-shadow: 0px 2px 5px  rgba(161, 161, 161, 0.8);
+    background-color: white;
+    padding: 20px;
+ position: relative;
+    top: 0px;
+    width: 100%;
+}
+.logo{
+ margin: auto 20px;
+}
+
+.nav-menu__info{
+    display: flex;
+    margin-left: auto;
+}
+
+.info-item{
+    margin-right: 150px;
+}
+.background-home{
+    background-image: url("../src/home/bg.png");
+    background-size: cover;
+    background-position: center;
+    height:92vh;
+    position: relative;
+}
+
+.btnHome{
+    position: absolute;
+    top:400px;
+    left: 80px;
+}
+
+.productsList{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+
+}
+.recomendationCard{
+    margin: 20px;
+}
+.title{
+
+text-align: center;
+margin: 40px 0px;
+}
+.title-text{
+
+    color: #535353;
+    font-size: 50px;
+}
+
+
+.background-eleccion{
+    background-image: url("../src/eleccion/bg.png");
+    background-size: cover;
+    background-position: center;
+    height:90vh;
+    position: relative;
+}
+.btns_eleccion{
+    position: absolute;
+    right: 600px;
+    bottom: 150px;
+}
+
+#parsed-list{
+    display: flex;
+    justify-content: center;
+}
+
+.cardResult{
+    position: relative;
+}
+.percent{
+    position: absolute;
+    bottom: 68px;
+    right: 45px;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+.link{
+    position: absolute;
+    bottom: 35px;
+    left: 42px;
+
+
+}
+.result{
+    display: none;
+}
+
+/*crossover*/
+#protoPerson{
+    display: none;
+}
+
+#groupP{
+    display: none;
+}
+
+.pizza{
+    display: none;
+}
+
+                 

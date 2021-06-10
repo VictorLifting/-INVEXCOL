@@ -1,0 +1,21 @@
+Nombre,Riesgo,Retorno tasa fija (E.A),Impacto social,Impacto ambiental,Tiempo (Plazo),Comercio,Manufactura,Alojamiento,Inmobiliario,Transporte ,Agroindustria,Servicios Energéticos,Alcantarillado,Educacion,Comunicaciones,Salud,Investigacion ,Servicios domesticos,Valor agregado,Mercado,Competencia,img
+Asfrio,1,10,10,10,36,1,10,1,1,1,1,1,1,1,1,1,1,1,5,5,3,./src/Asfiro.png
+Habi,5,9.75,5,7,18,1,1,1,10,1,1,1,1,1,1,1,1,1,10,7,4,./src/Habi.png
+Parrilla Libanesa,1,12,10,6,48,1,1,1,1,1,10,1,1,1,1,1,1,1,5,8,6,./src/Parrilla.png
+Vain,1,9.5,5,10,10,1,10,1,1,1,1,1,1,1,1,1,1,1,5,8,2,./src/Vain.png
+Asadores El Barril,1,11,1,10,36,1,1,1,1,1,10,1,1,1,1,1,1,1,5,5,4,./src/Asadores.png
+Celuventa,1,10,7,10,24,10,1,1,1,1,1,1,1,1,1,1,1,1,7,4,2,./src/Celuventa.png
+Servicepticos,1,11,8,10,48,1,1,1,1,1,1,1,10,1,1,1,1,1,7,8,3,./src/Servicepticos.png
+Recet Store,1,10,10,2,24,10,1,1,1,1,1,1,1,1,1,1,1,1,10,8,6,./src/Recet.png
+La mayorista,1,12,7,4,36,10,1,1,1,1,1,1,1,1,1,1,1,1,9,5,5,./src/mayorista.png
+Fundación Juanfe,2,8,10,2,12,1,1,1,1,1,1,1,1,1,1,10,1,1,9,8,4,./src/Juanfe.png
+RobinFood,2,10,8,2,36,10,1,10,1,1,1,1,1,1,1,1,1,1,9,5,7,./src/RobinFood.png
+velonet,2,12,7,2,36,1,1,1,1,1,1,1,1,1,10,1,1,1,7,6,5,./src/velonet.png
+Genersa,2,11.5,10,10,18,1,1,1,1,1,1,10,1,1,1,1,1,1,5,8,7,./src/Genersa.png
+Coss,1,12,7,10,24,1,1,1,1,10,1,1,1,1,1,1,1,1,5,7,3,./src/Coss.png
+T4,1,8.5,10,10,24,1,10,1,1,1,1,1,1,1,1,1,1,1,7,5,4,./src/T4.png
+Edex,1,12,7,3,36,1,1,1,1,1,1,1,1,10,1,1,1,1,10,8,7,./src/Edex.png
+Vendty,1,12,5,2,36,1,1,1,1,1,1,1,1,1,10,1,1,1,5,5,7,./src/Vendty.png
+Aoxlab,3,12,8,2,48,1,1,1,1,1,1,1,1,1,1,1,10,1,9,6,3,./src/Aoxlab.png
+PlusAseo,1,10,4,3,48,1,1,1,1,1,1,1,1,1,1,1,1,10,5,3,5,./src/PlusAseo.png
+Pirani,1,8,4,2,12,1,1,1,1,1,1,1,1,1,10,1,1,1,10,6,4,./src/Pirani.png
