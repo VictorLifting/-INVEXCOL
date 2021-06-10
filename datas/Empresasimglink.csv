@@ -1,6 +1,6 @@
 Nombre,Riesgo,Retorno tasa fija (E.A),Impacto social,Impacto ambiental,Tiempo (Plazo),Comercio,Manufactura,Alojamiento,Inmobiliario,Transporte ,Agroindustria,Servicios Energéticos,Alcantarillado,Educacion,Comunicaciones,Salud,Investigacion ,Servicios domesticos,Valor agregado,Mercado,Competencia,img,link
 Asfrio,1,10,10,10,36,1,10,1,1,1,1,1,1,1,1,1,1,1,5,5,3,./src/Asfiro.png,https://a2censo.com/campaign/146
-Habi,5,9.75,5,7,18,1,1,1,10,1,1,1,1,1,1,1,1,1,10,7,4,./src/Habi.png,https://a2censo.com/campaign/145
+Habi,5,9.75,5,7,18,1,1,1,10,1,1,1,1,1,1,1,1,1,10,7,4,./src/habi.png,https://a2censo.com/campaign/145
 Parrilla Libanesa,1,12,10,6,48,1,1,1,1,1,10,1,1,1,1,1,1,1,5,8,6,./src/parrilla.png,https://a2censo.com/campaign/144
 Vain,1,9.5,5,10,10,1,10,1,1,1,1,1,1,1,1,1,1,1,5,8,2,./src/Vain.png,https://a2censo.com/campaign/143
 Asadores El Barril,1,11,1,10,36,1,1,1,1,1,10,1,1,1,1,1,1,1,5,5,4,./src/Asadores.png,https://a2censo.com/campaign/142
